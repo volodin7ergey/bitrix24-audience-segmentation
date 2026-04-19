@@ -23,24 +23,35 @@ ETL-инструмент для выгрузки контактов из CRM, о
 <table width="100%">
 <tr>
 <td align="center">
-<img src="media/screen-1.jpg" width="100%"><br>
+<img src="media/screen-1.jpg" width="100%">
+<br>
+  
 <em>Начальный экран</em>
 </td>
 
 <td align="center">
-<img src="media/screen-2.jpg" width="100%"><br>
+<img src="media/screen-2.jpg" width="100%">
+  
+<br>
+
 <em>Вывод данных</em>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="media/screen-3.jpg" width="100%"><br>
+<img src="media/screen-3.jpg" width="100%">
+
+<br>
+
 <em>Проверка данных перед отправкой</em>
 </td>
 
 <td align="center">
-<img src="media/screen-4.jpg" width="100%"><br>
+<img src="media/screen-4.jpg" width="100%">
+  
+<br>
+
 <em>Успешная отправка в Unisender</em>
 </td>
 </tr>
