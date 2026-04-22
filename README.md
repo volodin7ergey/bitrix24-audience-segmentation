@@ -40,6 +40,7 @@ ETL-инструмент для выгрузки контактов из CRM, о
 
 <tr>
 <td align="center">
+  
 <img src="media/screen-3.jpg" width="100%">
 
 <br>
@@ -48,6 +49,7 @@ ETL-инструмент для выгрузки контактов из CRM, о
 </td>
 
 <td align="center">
+  
 <img src="media/screen-4.jpg" width="100%">
   
 <br>
